@@ -49,8 +49,7 @@ Repository: [https://github.com/divyanshu4757/Smart-Delivery-management-system]
 
 ## Connect With Me
 
-LinkedIn: https://linkedin.com/in/yourprofile
-
+LinkedIn: https://www.linkedin.com/in/divyanshu-gupta-347217192/
 GitHub: https://github.com/divyanshu4757
 
 
