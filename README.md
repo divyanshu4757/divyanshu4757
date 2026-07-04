@@ -1,6 +1,6 @@
 # Hi, I'm Divyanshu Gupta 👋
 
-Backend & DevOps Engineer with nearly 2 years of experience building microservices, distributed systems, and cloud-based solutions.
+Backend AI & DevOps Engineer with nearly 2 years of experience building microservices, distributed systems, and cloud-based solutions.
 
 ## Tech Stack
 
